@@ -9,8 +9,6 @@ def test_foo():
 def test_foo2():
     assert foo(0) == 0
     assert foo(1) == 1
-def test_foo3():
-    print (foo(9));
 
 def test_longest_run_none():
     assert longest_run([2,12,12,8,12,12,12,0,12,1], 999) == 0
