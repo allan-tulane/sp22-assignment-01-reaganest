@@ -2,8 +2,8 @@
 
 # CMPS 2200 Assignment 1
 
-**Name:**_________________________
-
+**Name:** Reagan Esteves
+(question 1 and 2b are on the pdf)
 
 In this assignment, you will learn more about asymptotic notation, parallelism, functional languages, and algorithmic cost models. As in the recitation, some of your answer will go here and some will go in `main.py`. You are welcome to edit this `assignment-01.md` file directly, or print and fill in by hand. If you do the latter, please scan to a file `assignment-01.pdf` and push to your github repository. 
   
@@ -60,7 +60,7 @@ $$
 
   - 2a. (6 pts) Translate this to Python code -- fill in the `def foo` method in `main.py`  
 
-  - 2b. (6 pts) What does this function do, in your own words?  
+  - 2b. (6 pts) What does this function do, in your own words?  This function 
 
 .  
 .  
