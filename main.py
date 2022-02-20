@@ -50,7 +50,7 @@ def combination(base1:Result, base2:Result):
     base.is_entire_range ='T'
     base.left_size = base2.left_size+ base1.left_size
     base.right_size = base2.right_size+ base1.right_size
-    base.longest_size = base2.longest_size+ base1.longest_size
+    base.longest_size =base2.longest_size+base1.longest_size
 
   elif (base1.is_entire_range == 'T' and base2.is_entire_range == 'F'):
     base.is_entire_range ='F'
@@ -65,7 +65,7 @@ def combination(base1:Result, base2:Result):
 
   else:  
     base.is_entire_range ='F'
-    base.left_size = base2.left_size base1.left_size
+    base.left_size = base2.left_size +base1.left_size
     base.right_size = max(base2.right_size, base1.right_size)
     base.longest_size = max(base2.longest_size,base1.longest_size)
     
