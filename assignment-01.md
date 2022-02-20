@@ -3,7 +3,7 @@
 # CMPS 2200 Assignment 1
 
 **Name:** Reagan Esteves
-(question 1 and 2b are on the pdf)
+(question 1, 2b, 3b, 3d, and 3e are on the pdf)
 
 In this assignment, you will learn more about asymptotic notation, parallelism, functional languages, and algorithmic cost models. As in the recitation, some of your answer will go here and some will go in `main.py`. You are welcome to edit this `assignment-01.md` file directly, or print and fill in by hand. If you do the latter, please scan to a file `assignment-01.pdf` and push to your github repository. 
   
@@ -88,7 +88,7 @@ def longest_run(myarray, key)
 ```
 E.g., `longest_run([2,12,12,8,12,12,12,0,12,1], 12) == 3`  
  
-  - 3a. (7 pts) First, implement an iterative, sequential version of `longest_run` in `main.py`.  
+  - 3a. (7 pts) First, implement an iterative, sequential version of `longest_run` in `main.py`.  done
 
   - 3b. (4 pts) What is the Work and Span of this implementation?  
 
